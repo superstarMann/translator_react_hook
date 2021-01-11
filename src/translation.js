@@ -1,7 +1,7 @@
 const translations = {
-    es: {
-        "Hello": "Guten Tag",
-        Translate: "Übersetzung"
+    de: {
+        "안녕": "Guten Tag",
+        "번역": "Übersetzung"
     }
 };
 

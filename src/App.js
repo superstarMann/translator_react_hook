@@ -4,7 +4,7 @@ import Lang from "./context";
 import translations from "./translation";
 function App() {
   return (
-    <Lang defaultLang = "en" translations={translations}>
+    <Lang defaultLang = "ko" translations={translations}>
     <Screen/>
     </Lang>
   );
